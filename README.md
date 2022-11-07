@@ -1,2 +1,2 @@
 # taller-java
-Aplicación de taller en Java
+Aplicación de taller en Java.
